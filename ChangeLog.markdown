@@ -1,3 +1,5 @@
+# Changes Version 0.0.11
+* Adding generic XPath classes which can process anything that can be queried with an XPath expression.
 
 # Changes Version 0.0.10
 * Changed DCRatingScale to DCRatingScale and fixed enum declaration.

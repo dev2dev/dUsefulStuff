@@ -122,35 +122,35 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		65001C96117C87F500C6ACA8 /* DCUIBubble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIBubble.h; path = src/code/DCUIBubble.h; sourceTree = "<group>"; };
-		65001C97117C87F500C6ACA8 /* DCUIBubble.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIBubble.m; path = src/code/DCUIBubble.m; sourceTree = "<group>"; };
-		65001DB7117F2C8700C6ACA8 /* DCUIBubbleTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIBubbleTests.m; path = src/tests/DCUIBubbleTests.m; sourceTree = "<group>"; };
-		6503579B116A1B8100202897 /* DCCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCCommon.h; path = src/code/DCCommon.h; sourceTree = "<group>"; };
-		6503579C116A1B8100202897 /* DCUIRating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRating.h; path = src/code/DCUIRating.h; sourceTree = "<group>"; };
-		6503579D116A1B8100202897 /* DCUIRating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRating.m; path = src/code/DCUIRating.m; sourceTree = "<group>"; };
-		6503579E116A1B8100202897 /* NSDictionary+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+dUsefulStuff.h"; path = "src/code/NSDictionary+dUsefulStuff.h"; sourceTree = "<group>"; };
-		6503579F116A1B8100202897 /* NSDictionary+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+dUsefulStuff.m"; path = "src/code/NSDictionary+dUsefulStuff.m"; sourceTree = "<group>"; };
-		650357A0116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+dUsefulStuff.h"; path = "src/code/NSMutableDictionary+dUsefulStuff.h"; sourceTree = "<group>"; };
-		650357A1116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+dUsefulStuff.m"; path = "src/code/NSMutableDictionary+dUsefulStuff.m"; sourceTree = "<group>"; };
-		650357AA116A1BAA00202897 /* blank_10_x_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blank_10_x_10.png; path = src/tests/blank_10_x_10.png; sourceTree = "<group>"; };
-		650357AC116A1BAA00202897 /* DCCommonTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCCommonTests.m; path = src/tests/DCCommonTests.m; sourceTree = "<group>"; };
-		650357AD116A1BAA00202897 /* DCUIRatingTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingTests.m; path = src/tests/DCUIRatingTests.m; sourceTree = "<group>"; };
-		650357AE116A1BAA00202897 /* dUsefulStuff unit tests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "dUsefulStuff unit tests-Info.plist"; path = "src/tests/dUsefulStuff unit tests-Info.plist"; sourceTree = "<group>"; };
-		650357AF116A1BAA00202897 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = src/tests/main.m; sourceTree = "<group>"; };
-		650357B0116A1BAA00202897 /* NSDictionary+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+dUsefulStuffTests.m"; path = "src/tests/NSDictionary+dUsefulStuffTests.m"; sourceTree = "<group>"; };
-		650357B1116A1BAA00202897 /* NSMutableDictionary+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+dUsefulStuffTests.m"; path = "src/tests/NSMutableDictionary+dUsefulStuffTests.m"; sourceTree = "<group>"; };
-		650357B2116A1BAA00202897 /* RatingTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "RatingTest-Info.plist"; path = "src/tests/RatingTest-Info.plist"; sourceTree = "<group>"; };
-		650357B3116A1BAA00202897 /* RatingTest.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RatingTest.xib; path = src/tests/RatingTest.xib; sourceTree = "<group>"; };
-		650357B4116A1BAA00202897 /* RatingTestAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RatingTestAppDelegate.h; path = src/tests/RatingTestAppDelegate.h; sourceTree = "<group>"; };
-		650357B5116A1BAA00202897 /* RatingTestAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RatingTestAppDelegate.m; path = src/tests/RatingTestAppDelegate.m; sourceTree = "<group>"; };
-		650357B6116A1BAA00202897 /* RatingTestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RatingTestController.h; path = src/tests/RatingTestController.h; sourceTree = "<group>"; };
-		650357B7116A1BAA00202897 /* RatingTestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RatingTestController.m; path = src/tests/RatingTestController.m; sourceTree = "<group>"; };
+		65001C96117C87F500C6ACA8 /* DCUIBubble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIBubble.h; sourceTree = "<group>"; };
+		65001C97117C87F500C6ACA8 /* DCUIBubble.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIBubble.m; sourceTree = "<group>"; };
+		65001DB7117F2C8700C6ACA8 /* DCUIBubbleTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIBubbleTests.m; sourceTree = "<group>"; };
+		6503579B116A1B8100202897 /* DCCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCCommon.h; sourceTree = "<group>"; };
+		6503579C116A1B8100202897 /* DCUIRating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRating.h; sourceTree = "<group>"; };
+		6503579D116A1B8100202897 /* DCUIRating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRating.m; sourceTree = "<group>"; };
+		6503579E116A1B8100202897 /* NSDictionary+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+dUsefulStuff.h"; sourceTree = "<group>"; };
+		6503579F116A1B8100202897 /* NSDictionary+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+dUsefulStuff.m"; sourceTree = "<group>"; };
+		650357A0116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableDictionary+dUsefulStuff.h"; sourceTree = "<group>"; };
+		650357A1116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableDictionary+dUsefulStuff.m"; sourceTree = "<group>"; };
+		650357AA116A1BAA00202897 /* blank_10_x_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blank_10_x_10.png; sourceTree = "<group>"; };
+		650357AC116A1BAA00202897 /* DCCommonTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCCommonTests.m; sourceTree = "<group>"; };
+		650357AD116A1BAA00202897 /* DCUIRatingTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingTests.m; sourceTree = "<group>"; };
+		650357AE116A1BAA00202897 /* dUsefulStuff unit tests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "dUsefulStuff unit tests-Info.plist"; sourceTree = "<group>"; };
+		650357AF116A1BAA00202897 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		650357B0116A1BAA00202897 /* NSDictionary+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+dUsefulStuffTests.m"; sourceTree = "<group>"; };
+		650357B1116A1BAA00202897 /* NSMutableDictionary+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableDictionary+dUsefulStuffTests.m"; sourceTree = "<group>"; };
+		650357B2116A1BAA00202897 /* RatingTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "RatingTest-Info.plist"; sourceTree = "<group>"; };
+		650357B3116A1BAA00202897 /* RatingTest.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RatingTest.xib; sourceTree = "<group>"; };
+		650357B4116A1BAA00202897 /* RatingTestAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RatingTestAppDelegate.h; sourceTree = "<group>"; };
+		650357B5116A1BAA00202897 /* RatingTestAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RatingTestAppDelegate.m; sourceTree = "<group>"; };
+		650357B6116A1BAA00202897 /* RatingTestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RatingTestController.h; sourceTree = "<group>"; };
+		650357B7116A1BAA00202897 /* RatingTestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RatingTestController.m; sourceTree = "<group>"; };
 		650B81921276F1B3002BA0B2 /* OCMock.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OCMock.framework; path = ../tools/OCMock.framework; sourceTree = SOURCE_ROOT; };
-		65142DEF13C1F54D00C4C21F /* DCBackgroundThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCBackgroundThread.h; path = src/code/DCBackgroundThread.h; sourceTree = "<group>"; };
-		65142DF013C1F54D00C4C21F /* DCBackgroundThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCBackgroundThread.m; path = src/code/DCBackgroundThread.m; sourceTree = "<group>"; };
-		65142DF113C1F54D00C4C21F /* DCBusyIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCBusyIndicator.h; path = src/code/DCBusyIndicator.h; sourceTree = "<group>"; };
-		65142DF213C1F54D00C4C21F /* DCBusyIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCBusyIndicator.m; path = src/code/DCBusyIndicator.m; sourceTree = "<group>"; };
-		65142DFE13C4A00E00C4C21F /* DCBackgroundThreadDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCBackgroundThreadDelegate.h; path = src/code/DCBackgroundThreadDelegate.h; sourceTree = "<group>"; };
+		65142DEF13C1F54D00C4C21F /* DCBackgroundThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCBackgroundThread.h; sourceTree = "<group>"; };
+		65142DF013C1F54D00C4C21F /* DCBackgroundThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCBackgroundThread.m; sourceTree = "<group>"; };
+		65142DF113C1F54D00C4C21F /* DCBusyIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCBusyIndicator.h; sourceTree = "<group>"; };
+		65142DF213C1F54D00C4C21F /* DCBusyIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCBusyIndicator.m; sourceTree = "<group>"; };
+		65142DFE13C4A00E00C4C21F /* DCBackgroundThreadDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCBackgroundThreadDelegate.h; sourceTree = "<group>"; };
 		6518349F1227EED400B4AE43 /* build.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = build.sh; sourceTree = "<group>"; };
 		651834AD1227F19D00B4AE43 /* createDocumentation.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = createDocumentation.sh; sourceTree = "<group>"; };
 		651834AE1227F3A300B4AE43 /* clean.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = clean.sh; sourceTree = "<group>"; };
@@ -163,49 +163,49 @@
 		652D4E4113C9B2FA00633E51 /* CancellableTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CancellableTask.m; sourceTree = "<group>"; };
 		652D4E4313CC70B800633E51 /* SleepingTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SleepingTask.h; sourceTree = "<group>"; };
 		652D4E4413CC70B800633E51 /* SleepingTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SleepingTask.m; sourceTree = "<group>"; };
-		6538898A12730E980037D2C1 /* DCCoreDataTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCCoreDataTests.m; path = src/tests/DCCoreDataTests.m; sourceTree = "<group>"; };
+		6538898A12730E980037D2C1 /* DCCoreDataTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCCoreDataTests.m; sourceTree = "<group>"; };
 		654ED65C116C5B89007AB3BA /* ReadMe.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; lineEnding = 0; path = ReadMe.markdown; sourceTree = "<group>"; };
 		654ED65D116C5B89007AB3BA /* star-active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-active.png"; sourceTree = "<group>"; };
 		654ED65E116C5B89007AB3BA /* star-half-active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-half-active.png"; sourceTree = "<group>"; };
 		654ED65F116C5B89007AB3BA /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
-		65568E971233B7C400BC02C3 /* DCCoreData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCCoreData.h; path = src/code/DCCoreData.h; sourceTree = "<group>"; };
-		65568E981233B7C400BC02C3 /* DCCoreData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCCoreData.m; path = src/code/DCCoreData.m; sourceTree = "<group>"; };
+		65568E971233B7C400BC02C3 /* DCCoreData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCCoreData.h; sourceTree = "<group>"; };
+		65568E981233B7C400BC02C3 /* DCCoreData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCCoreData.m; sourceTree = "<group>"; };
 		65568ECC1233B95900BC02C3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		65584D7212C427CE00F7B39A /* defaults.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = defaults.sh; sourceTree = "<group>"; };
 		656B793411796FE000F19C5D /* bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble.png; sourceTree = "<group>"; };
 		656E3EEC1257752A00CAFAD9 /* ChangeLog.markdown */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChangeLog.markdown; sourceTree = "<group>"; };
 		6576D1C3121C0CAF00CBE1B0 /* GHUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GHUnit.framework; path = "/Users/derek/projects/tools/GHUnit 0.4.27/GHUnit.framework"; sourceTree = "<absolute>"; };
-		6576D210121C1EFA00CBE1B0 /* GHUnitIOSTestMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GHUnitIOSTestMain.m; path = src/tests/GHUnitIOSTestMain.m; sourceTree = "<group>"; };
+		6576D210121C1EFA00CBE1B0 /* GHUnitIOSTestMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHUnitIOSTestMain.m; sourceTree = "<group>"; };
 		6579F224116E1AC00065C30E /* dUsefulStuff simulator unit tests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dUsefulStuff simulator unit tests.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingDelegate.h; path = src/code/DCUIRatingDelegate.h; sourceTree = "<group>"; };
-		65896F1D1244F9210089E207 /* UIColor+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+dUsefulStuff.h"; path = "src/code/UIColor+dUsefulStuff.h"; sourceTree = "<group>"; };
-		65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+dUsefulStuff.m"; path = "src/code/UIColor+dUsefulStuff.m"; sourceTree = "<group>"; };
-		65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+dUsefulStuffTests.m"; path = "src/tests/UIColor+dUsefulStuffTests.m"; sourceTree = "<group>"; };
-		659CB9A7125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleDoubleStrategyTests.m; path = src/tests/DCUIRatingScaleDoubleStrategyTests.m; sourceTree = "<group>"; };
-		659CB9C9125B14ED00AD44BE /* GHUnitTest+DCUIRatingFixtures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "GHUnitTest+DCUIRatingFixtures.h"; path = "src/tests/GHUnitTest+DCUIRatingFixtures.h"; sourceTree = "<group>"; };
-		659CB9CA125B14ED00AD44BE /* GHUnitTest+DCUIRatingFixtures.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "GHUnitTest+DCUIRatingFixtures.m"; path = "src/tests/GHUnitTest+DCUIRatingFixtures.m"; sourceTree = "<group>"; };
+		657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingDelegate.h; sourceTree = "<group>"; };
+		65896F1D1244F9210089E207 /* UIColor+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+dUsefulStuff.h"; sourceTree = "<group>"; };
+		65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+dUsefulStuff.m"; sourceTree = "<group>"; };
+		65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+dUsefulStuffTests.m"; sourceTree = "<group>"; };
+		659CB9A7125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleDoubleStrategyTests.m; sourceTree = "<group>"; };
+		659CB9C9125B14ED00AD44BE /* GHUnitTest+DCUIRatingFixtures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GHUnitTest+DCUIRatingFixtures.h"; sourceTree = "<group>"; };
+		659CB9CA125B14ED00AD44BE /* GHUnitTest+DCUIRatingFixtures.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GHUnitTest+DCUIRatingFixtures.m"; sourceTree = "<group>"; };
 		659D2BE5117747BA0056AA74 /* dUsefullStuff Test Program.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dUsefullStuff Test Program.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65A0C68F116EF534003AC854 /* libdUsefulStuff.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libdUsefulStuff.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		65AD2520128E816C007E4F23 /* Uncrustify.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = Uncrustify.sh; sourceTree = "<group>"; };
-		65B182EF124DD7CC00A789C0 /* UIView+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+dUsefulStuff.h"; path = "src/code/UIView+dUsefulStuff.h"; sourceTree = "<group>"; };
-		65B182F0124DD7CC00A789C0 /* UIView+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+dUsefulStuff.m"; path = "src/code/UIView+dUsefulStuff.m"; sourceTree = "<group>"; };
-		65BD83E51259E3DF00433CCD /* DCUIRatingScaleHalfStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingScaleHalfStrategy.h; path = src/code/DCUIRatingScaleHalfStrategy.h; sourceTree = "<group>"; };
-		65BD83E61259E3DF00433CCD /* DCUIRatingScaleHalfStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleHalfStrategy.m; path = src/code/DCUIRatingScaleHalfStrategy.m; sourceTree = "<group>"; };
-		65BD83E91259E49300433CCD /* DCUIRatingAbstractScaleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingAbstractScaleStrategy.h; path = src/code/DCUIRatingAbstractScaleStrategy.h; sourceTree = "<group>"; };
-		65BD83EA1259E49300433CCD /* DCUIRatingAbstractScaleStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingAbstractScaleStrategy.m; path = src/code/DCUIRatingAbstractScaleStrategy.m; sourceTree = "<group>"; };
-		65CC19A513C8760B005D8BA3 /* DCBackgroundTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCBackgroundTask.h; path = src/code/DCBackgroundTask.h; sourceTree = "<group>"; };
-		65CC19A713C88183005D8BA3 /* DCBackgroundThreadTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCBackgroundThreadTests.m; path = src/tests/DCBackgroundThreadTests.m; sourceTree = "<group>"; };
-		65CD392E122551E90061EEBF /* DCDialogs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCDialogs.h; path = src/code/DCDialogs.h; sourceTree = "<group>"; };
-		65CD392F122551E90061EEBF /* DCDialogs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCDialogs.m; path = src/code/DCDialogs.m; sourceTree = "<group>"; };
+		65B182EF124DD7CC00A789C0 /* UIView+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+dUsefulStuff.h"; sourceTree = "<group>"; };
+		65B182F0124DD7CC00A789C0 /* UIView+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+dUsefulStuff.m"; sourceTree = "<group>"; };
+		65BD83E51259E3DF00433CCD /* DCUIRatingScaleHalfStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingScaleHalfStrategy.h; sourceTree = "<group>"; };
+		65BD83E61259E3DF00433CCD /* DCUIRatingScaleHalfStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleHalfStrategy.m; sourceTree = "<group>"; };
+		65BD83E91259E49300433CCD /* DCUIRatingAbstractScaleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingAbstractScaleStrategy.h; sourceTree = "<group>"; };
+		65BD83EA1259E49300433CCD /* DCUIRatingAbstractScaleStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingAbstractScaleStrategy.m; sourceTree = "<group>"; };
+		65CC19A513C8760B005D8BA3 /* DCBackgroundTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCBackgroundTask.h; sourceTree = "<group>"; };
+		65CC19A713C88183005D8BA3 /* DCBackgroundThreadTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCBackgroundThreadTests.m; sourceTree = "<group>"; };
+		65CD392E122551E90061EEBF /* DCDialogs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCDialogs.h; sourceTree = "<group>"; };
+		65CD392F122551E90061EEBF /* DCDialogs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCDialogs.m; sourceTree = "<group>"; };
 		65CD39A31226880D0061EEBF /* buildStaticLibrary.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = buildStaticLibrary.sh; sourceTree = "<group>"; };
 		65CD39A4122689B10061EEBF /* common.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = common.sh; sourceTree = "<group>"; };
-		65D11B84125856C9001FED62 /* DCUIRatingScaleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingScaleStrategy.h; path = src/code/DCUIRatingScaleStrategy.h; sourceTree = "<group>"; };
-		65D11B8612585AC0001FED62 /* DCUIRatingScaleWholeStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingScaleWholeStrategy.h; path = src/code/DCUIRatingScaleWholeStrategy.h; sourceTree = "<group>"; };
-		65D11B8712585AC0001FED62 /* DCUIRatingScaleWholeStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleWholeStrategy.m; path = src/code/DCUIRatingScaleWholeStrategy.m; sourceTree = "<group>"; };
-		65D11B8B12586419001FED62 /* DCUIRatingScaleWholeStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleWholeStrategyTests.m; path = src/tests/DCUIRatingScaleWholeStrategyTests.m; sourceTree = "<group>"; };
-		65D5D7741259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCUIRatingScaleDoubleStrategy.h; path = src/code/DCUIRatingScaleDoubleStrategy.h; sourceTree = "<group>"; };
-		65D5D7751259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleDoubleStrategy.m; path = src/code/DCUIRatingScaleDoubleStrategy.m; sourceTree = "<group>"; };
-		65D5D7831259FD7700E161C1 /* DCUIRatingScaleHalfStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DCUIRatingScaleHalfStrategyTests.m; path = src/tests/DCUIRatingScaleHalfStrategyTests.m; sourceTree = "<group>"; };
+		65D11B84125856C9001FED62 /* DCUIRatingScaleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingScaleStrategy.h; sourceTree = "<group>"; };
+		65D11B8612585AC0001FED62 /* DCUIRatingScaleWholeStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingScaleWholeStrategy.h; sourceTree = "<group>"; };
+		65D11B8712585AC0001FED62 /* DCUIRatingScaleWholeStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleWholeStrategy.m; sourceTree = "<group>"; };
+		65D11B8B12586419001FED62 /* DCUIRatingScaleWholeStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleWholeStrategyTests.m; sourceTree = "<group>"; };
+		65D5D7741259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingScaleDoubleStrategy.h; sourceTree = "<group>"; };
+		65D5D7751259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleDoubleStrategy.m; sourceTree = "<group>"; };
+		65D5D7831259FD7700E161C1 /* DCUIRatingScaleHalfStrategyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUIRatingScaleHalfStrategyTests.m; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* dUsefulStuff_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dUsefulStuff_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -295,33 +295,16 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				65142DEF13C1F54D00C4C21F /* DCBackgroundThread.h */,
-				65142DF013C1F54D00C4C21F /* DCBackgroundThread.m */,
-				65142DFE13C4A00E00C4C21F /* DCBackgroundThreadDelegate.h */,
-				65CC19A513C8760B005D8BA3 /* DCBackgroundTask.h */,
-				65142DF113C1F54D00C4C21F /* DCBusyIndicator.h */,
-				65142DF213C1F54D00C4C21F /* DCBusyIndicator.m */,
+				6583B43D13D1D0C7005E13F3 /* UI */,
+				6583B43C13D1D09B005E13F3 /* Categories */,
+				6583B43B13D1D06C005E13F3 /* Threading */,
+				6583B43A13D1D059005E13F3 /* XPath */,
 				6503579B116A1B8100202897 /* DCCommon.h */,
 				65568E971233B7C400BC02C3 /* DCCoreData.h */,
 				65568E981233B7C400BC02C3 /* DCCoreData.m */,
-				65CD392E122551E90061EEBF /* DCDialogs.h */,
-				65CD392F122551E90061EEBF /* DCDialogs.m */,
-				65001C96117C87F500C6ACA8 /* DCUIBubble.h */,
-				65001C97117C87F500C6ACA8 /* DCUIBubble.m */,
-				6503579C116A1B8100202897 /* DCUIRating.h */,
-				6503579D116A1B8100202897 /* DCUIRating.m */,
-				657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */,
-				6503579E116A1B8100202897 /* NSDictionary+dUsefulStuff.h */,
-				6503579F116A1B8100202897 /* NSDictionary+dUsefulStuff.m */,
-				650357A0116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.h */,
-				650357A1116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.m */,
-				65D5D7711259EBDA00E161C1 /* Rating scales */,
-				65896F1D1244F9210089E207 /* UIColor+dUsefulStuff.h */,
-				65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */,
-				65B182EF124DD7CC00A789C0 /* UIView+dUsefulStuff.h */,
-				65B182F0124DD7CC00A789C0 /* UIView+dUsefulStuff.m */,
 			);
 			name = Classes;
+			path = src/code;
 			sourceTree = "<group>";
 		};
 		32C88DFF0371C24200C91783 /* Other Sources */ = {
@@ -335,23 +318,18 @@
 		650357A9116A1B8600202897 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				6583B43F13D1D129005E13F3 /* UI */,
+				6583B43E13D1D10C005E13F3 /* Categories */,
 				650357AA116A1BAA00202897 /* blank_10_x_10.png */,
 				65CC19A713C88183005D8BA3 /* DCBackgroundThreadTests.m */,
 				650357AC116A1BAA00202897 /* DCCommonTests.m */,
 				6538898A12730E980037D2C1 /* DCCoreDataTests.m */,
-				65001DB7117F2C8700C6ACA8 /* DCUIBubbleTests.m */,
-				659CB9A7125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m */,
-				65D5D7831259FD7700E161C1 /* DCUIRatingScaleHalfStrategyTests.m */,
-				65D11B8B12586419001FED62 /* DCUIRatingScaleWholeStrategyTests.m */,
-				650357AD116A1BAA00202897 /* DCUIRatingTests.m */,
 				650357AE116A1BAA00202897 /* dUsefulStuff unit tests-Info.plist */,
 				657C582612D718FF00D3C182 /* Fixtures */,
-				650357B0116A1BAA00202897 /* NSDictionary+dUsefulStuffTests.m */,
-				650357B1116A1BAA00202897 /* NSMutableDictionary+dUsefulStuffTests.m */,
-				65F21665116C677F0086F808 /* Rating tests */,
-				65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */,
+				65F21665116C677F0086F808 /* Test App */,
 			);
 			name = Tests;
+			path = src/tests;
 			sourceTree = "<group>";
 		};
 		654ED656116C5B62007AB3BA /* Resources */ = {
@@ -377,6 +355,78 @@
 				652D4E4413CC70B800633E51 /* SleepingTask.m */,
 			);
 			name = Fixtures;
+			sourceTree = "<group>";
+		};
+		6583B43A13D1D059005E13F3 /* XPath */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = XPath;
+			sourceTree = "<group>";
+		};
+		6583B43B13D1D06C005E13F3 /* Threading */ = {
+			isa = PBXGroup;
+			children = (
+				65142DEF13C1F54D00C4C21F /* DCBackgroundThread.h */,
+				65142DF013C1F54D00C4C21F /* DCBackgroundThread.m */,
+				65142DFE13C4A00E00C4C21F /* DCBackgroundThreadDelegate.h */,
+				65CC19A513C8760B005D8BA3 /* DCBackgroundTask.h */,
+			);
+			name = Threading;
+			sourceTree = "<group>";
+		};
+		6583B43C13D1D09B005E13F3 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				6503579E116A1B8100202897 /* NSDictionary+dUsefulStuff.h */,
+				6503579F116A1B8100202897 /* NSDictionary+dUsefulStuff.m */,
+				650357A0116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.h */,
+				650357A1116A1B8100202897 /* NSMutableDictionary+dUsefulStuff.m */,
+				65896F1D1244F9210089E207 /* UIColor+dUsefulStuff.h */,
+				65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */,
+				65B182EF124DD7CC00A789C0 /* UIView+dUsefulStuff.h */,
+				65B182F0124DD7CC00A789C0 /* UIView+dUsefulStuff.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		6583B43D13D1D0C7005E13F3 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				65142DF113C1F54D00C4C21F /* DCBusyIndicator.h */,
+				65142DF213C1F54D00C4C21F /* DCBusyIndicator.m */,
+				65CD392E122551E90061EEBF /* DCDialogs.h */,
+				65CD392F122551E90061EEBF /* DCDialogs.m */,
+				65001C96117C87F500C6ACA8 /* DCUIBubble.h */,
+				65001C97117C87F500C6ACA8 /* DCUIBubble.m */,
+				6503579C116A1B8100202897 /* DCUIRating.h */,
+				6503579D116A1B8100202897 /* DCUIRating.m */,
+				657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */,
+				65D5D7711259EBDA00E161C1 /* Rating scales */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		6583B43E13D1D10C005E13F3 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				650357B0116A1BAA00202897 /* NSDictionary+dUsefulStuffTests.m */,
+				650357B1116A1BAA00202897 /* NSMutableDictionary+dUsefulStuffTests.m */,
+				65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		6583B43F13D1D129005E13F3 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				65001DB7117F2C8700C6ACA8 /* DCUIBubbleTests.m */,
+				659CB9A7125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m */,
+				65D5D7831259FD7700E161C1 /* DCUIRatingScaleHalfStrategyTests.m */,
+				65D11B8B12586419001FED62 /* DCUIRatingScaleWholeStrategyTests.m */,
+				650357AD116A1BAA00202897 /* DCUIRatingTests.m */,
+			);
+			name = UI;
 			sourceTree = "<group>";
 		};
 		65CD39A01226872A0061EEBF /* scripts */ = {
@@ -410,7 +460,7 @@
 			name = "Rating scales";
 			sourceTree = "<group>";
 		};
-		65F21665116C677F0086F808 /* Rating tests */ = {
+		65F21665116C677F0086F808 /* Test App */ = {
 			isa = PBXGroup;
 			children = (
 				650357B2116A1BAA00202897 /* RatingTest-Info.plist */,
@@ -421,7 +471,7 @@
 				650357B7116A1BAA00202897 /* RatingTestController.m */,
 				650357AF116A1BAA00202897 /* main.m */,
 			);
-			name = "Rating tests";
+			name = "Test App";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -636,7 +686,6 @@
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				BUILD_STYLE = Debug;
-				CURRENT_PROJECT_VERSION = 0.0.10;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = DC_DEBUG;
@@ -656,7 +705,6 @@
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				BUILD_STYLE = Release;
-				CURRENT_PROJECT_VERSION = 0.0.10;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
