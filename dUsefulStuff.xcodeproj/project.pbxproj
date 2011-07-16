@@ -51,6 +51,34 @@
 		656B793511796FE000F19C5D /* bubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 656B793411796FE000F19C5D /* bubble.png */; };
 		6576D211121C1EFA00CBE1B0 /* GHUnitIOSTestMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6576D210121C1EFA00CBE1B0 /* GHUnitIOSTestMain.m */; };
 		657F52F8129E9D6600EC3B7F /* DCUIRatingDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6583B45313D1D25C005E13F3 /* DCXPathAbstractSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44013D1D25C005E13F3 /* DCXPathAbstractSelector.h */; };
+		6583B45413D1D25C005E13F3 /* DCXPathAbstractSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44113D1D25C005E13F3 /* DCXPathAbstractSelector.m */; };
+		6583B45613D1D25C005E13F3 /* DCXPathElementFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44213D1D25C005E13F3 /* DCXPathElementFilter.h */; };
+		6583B45713D1D25C005E13F3 /* DCXPathElementFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44313D1D25C005E13F3 /* DCXPathElementFilter.m */; };
+		6583B45913D1D25C005E13F3 /* DCXPathElementSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44413D1D25C005E13F3 /* DCXPathElementSelector.h */; };
+		6583B45A13D1D25C005E13F3 /* DCXPathElementSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44513D1D25C005E13F3 /* DCXPathElementSelector.m */; };
+		6583B45C13D1D25C005E13F3 /* DCXPathExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44613D1D25C005E13F3 /* DCXPathExecutor.h */; };
+		6583B45D13D1D25C005E13F3 /* DCXPathExecutor.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44713D1D25C005E13F3 /* DCXPathExecutor.m */; };
+		6583B45F13D1D25C005E13F3 /* DCXPathFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44813D1D25C005E13F3 /* DCXPathFilter.h */; };
+		6583B46013D1D25C005E13F3 /* DCXPathIndexedSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44913D1D25C005E13F3 /* DCXPathIndexedSelector.h */; };
+		6583B46113D1D25C005E13F3 /* DCXPathIndexedSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44A13D1D25C005E13F3 /* DCXPathIndexedSelector.m */; };
+		6583B46313D1D25C005E13F3 /* DCXPathIndexFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44B13D1D25C005E13F3 /* DCXPathIndexFilter.h */; };
+		6583B46413D1D25C005E13F3 /* DCXPathIndexFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44C13D1D25C005E13F3 /* DCXPathIndexFilter.m */; };
+		6583B46613D1D25C005E13F3 /* DCXPathParentSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44D13D1D25C005E13F3 /* DCXPathParentSelector.h */; };
+		6583B46713D1D25C005E13F3 /* DCXPathParentSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B44E13D1D25C005E13F3 /* DCXPathParentSelector.m */; };
+		6583B46913D1D25C005E13F3 /* DCXPathRootSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B44F13D1D25C005E13F3 /* DCXPathRootSelector.h */; };
+		6583B46A13D1D25C005E13F3 /* DCXPathRootSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B45013D1D25C005E13F3 /* DCXPathRootSelector.m */; };
+		6583B46C13D1D25C005E13F3 /* DCXPathSubtreeSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 6583B45113D1D25C005E13F3 /* DCXPathSubtreeSelector.h */; };
+		6583B46D13D1D25C005E13F3 /* DCXPathSubtreeSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B45213D1D25C005E13F3 /* DCXPathSubtreeSelector.m */; };
+		6583B47913D1D309005E13F3 /* DCXPathAbstractSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47013D1D309005E13F3 /* DCXPathAbstractSelectorTests.m */; };
+		6583B47A13D1D309005E13F3 /* DCXPathElementFilterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47113D1D309005E13F3 /* DCXPathElementFilterTests.m */; };
+		6583B47B13D1D309005E13F3 /* DCXPathElementSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47213D1D309005E13F3 /* DCXPathElementSelectorTests.m */; };
+		6583B47C13D1D309005E13F3 /* DCXPathExecutorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47313D1D309005E13F3 /* DCXPathExecutorTests.m */; };
+		6583B47D13D1D309005E13F3 /* DCXPathIndexedSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47413D1D309005E13F3 /* DCXPathIndexedSelectorTests.m */; };
+		6583B47E13D1D309005E13F3 /* DCXPathIndexFilterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47513D1D309005E13F3 /* DCXPathIndexFilterTests.m */; };
+		6583B47F13D1D309005E13F3 /* DCXPathParentSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47613D1D309005E13F3 /* DCXPathParentSelectorTests.m */; };
+		6583B48013D1D309005E13F3 /* DCXPathRootSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47713D1D309005E13F3 /* DCXPathRootSelectorTests.m */; };
+		6583B48113D1D309005E13F3 /* DCXPathSubtreeSelectorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6583B47813D1D309005E13F3 /* DCXPathSubtreeSelectorTests.m */; };
 		65896F201244F9210089E207 /* UIColor+dUsefulStuff.m in Sources */ = {isa = PBXBuildFile; fileRef = 65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */; };
 		65896F461244FC320089E207 /* UIColor+dUsefulStuffTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */; };
 		659CB9A8125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 659CB9A7125A01CC00AD44BE /* DCUIRatingScaleDoubleStrategyTests.m */; };
@@ -178,6 +206,34 @@
 		6576D210121C1EFA00CBE1B0 /* GHUnitIOSTestMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHUnitIOSTestMain.m; sourceTree = "<group>"; };
 		6579F224116E1AC00065C30E /* dUsefulStuff simulator unit tests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dUsefulStuff simulator unit tests.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		657F52F7129E9D6600EC3B7F /* DCUIRatingDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUIRatingDelegate.h; sourceTree = "<group>"; };
+		6583B44013D1D25C005E13F3 /* DCXPathAbstractSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathAbstractSelector.h; sourceTree = "<group>"; };
+		6583B44113D1D25C005E13F3 /* DCXPathAbstractSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathAbstractSelector.m; sourceTree = "<group>"; };
+		6583B44213D1D25C005E13F3 /* DCXPathElementFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathElementFilter.h; sourceTree = "<group>"; };
+		6583B44313D1D25C005E13F3 /* DCXPathElementFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathElementFilter.m; sourceTree = "<group>"; };
+		6583B44413D1D25C005E13F3 /* DCXPathElementSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathElementSelector.h; sourceTree = "<group>"; };
+		6583B44513D1D25C005E13F3 /* DCXPathElementSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathElementSelector.m; sourceTree = "<group>"; };
+		6583B44613D1D25C005E13F3 /* DCXPathExecutor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathExecutor.h; sourceTree = "<group>"; };
+		6583B44713D1D25C005E13F3 /* DCXPathExecutor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathExecutor.m; sourceTree = "<group>"; };
+		6583B44813D1D25C005E13F3 /* DCXPathFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathFilter.h; sourceTree = "<group>"; };
+		6583B44913D1D25C005E13F3 /* DCXPathIndexedSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathIndexedSelector.h; sourceTree = "<group>"; };
+		6583B44A13D1D25C005E13F3 /* DCXPathIndexedSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathIndexedSelector.m; sourceTree = "<group>"; };
+		6583B44B13D1D25C005E13F3 /* DCXPathIndexFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathIndexFilter.h; sourceTree = "<group>"; };
+		6583B44C13D1D25C005E13F3 /* DCXPathIndexFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathIndexFilter.m; sourceTree = "<group>"; };
+		6583B44D13D1D25C005E13F3 /* DCXPathParentSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathParentSelector.h; sourceTree = "<group>"; };
+		6583B44E13D1D25C005E13F3 /* DCXPathParentSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathParentSelector.m; sourceTree = "<group>"; };
+		6583B44F13D1D25C005E13F3 /* DCXPathRootSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathRootSelector.h; sourceTree = "<group>"; };
+		6583B45013D1D25C005E13F3 /* DCXPathRootSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathRootSelector.m; sourceTree = "<group>"; };
+		6583B45113D1D25C005E13F3 /* DCXPathSubtreeSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCXPathSubtreeSelector.h; sourceTree = "<group>"; };
+		6583B45213D1D25C005E13F3 /* DCXPathSubtreeSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathSubtreeSelector.m; sourceTree = "<group>"; };
+		6583B47013D1D309005E13F3 /* DCXPathAbstractSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathAbstractSelectorTests.m; sourceTree = "<group>"; };
+		6583B47113D1D309005E13F3 /* DCXPathElementFilterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathElementFilterTests.m; sourceTree = "<group>"; };
+		6583B47213D1D309005E13F3 /* DCXPathElementSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathElementSelectorTests.m; sourceTree = "<group>"; };
+		6583B47313D1D309005E13F3 /* DCXPathExecutorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathExecutorTests.m; sourceTree = "<group>"; };
+		6583B47413D1D309005E13F3 /* DCXPathIndexedSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathIndexedSelectorTests.m; sourceTree = "<group>"; };
+		6583B47513D1D309005E13F3 /* DCXPathIndexFilterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathIndexFilterTests.m; sourceTree = "<group>"; };
+		6583B47613D1D309005E13F3 /* DCXPathParentSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathParentSelectorTests.m; sourceTree = "<group>"; };
+		6583B47713D1D309005E13F3 /* DCXPathRootSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathRootSelectorTests.m; sourceTree = "<group>"; };
+		6583B47813D1D309005E13F3 /* DCXPathSubtreeSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCXPathSubtreeSelectorTests.m; sourceTree = "<group>"; };
 		65896F1D1244F9210089E207 /* UIColor+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+dUsefulStuff.h"; sourceTree = "<group>"; };
 		65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+dUsefulStuff.m"; sourceTree = "<group>"; };
 		65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+dUsefulStuffTests.m"; sourceTree = "<group>"; };
@@ -318,6 +374,7 @@
 		650357A9116A1B8600202897 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				6583B46F13D1D2F0005E13F3 /* XPath */,
 				6583B43F13D1D129005E13F3 /* UI */,
 				6583B43E13D1D10C005E13F3 /* Categories */,
 				650357AA116A1BAA00202897 /* blank_10_x_10.png */,
@@ -360,6 +417,25 @@
 		6583B43A13D1D059005E13F3 /* XPath */ = {
 			isa = PBXGroup;
 			children = (
+				6583B44013D1D25C005E13F3 /* DCXPathAbstractSelector.h */,
+				6583B44113D1D25C005E13F3 /* DCXPathAbstractSelector.m */,
+				6583B44213D1D25C005E13F3 /* DCXPathElementFilter.h */,
+				6583B44313D1D25C005E13F3 /* DCXPathElementFilter.m */,
+				6583B44413D1D25C005E13F3 /* DCXPathElementSelector.h */,
+				6583B44513D1D25C005E13F3 /* DCXPathElementSelector.m */,
+				6583B44613D1D25C005E13F3 /* DCXPathExecutor.h */,
+				6583B44713D1D25C005E13F3 /* DCXPathExecutor.m */,
+				6583B44813D1D25C005E13F3 /* DCXPathFilter.h */,
+				6583B44913D1D25C005E13F3 /* DCXPathIndexedSelector.h */,
+				6583B44A13D1D25C005E13F3 /* DCXPathIndexedSelector.m */,
+				6583B44B13D1D25C005E13F3 /* DCXPathIndexFilter.h */,
+				6583B44C13D1D25C005E13F3 /* DCXPathIndexFilter.m */,
+				6583B44D13D1D25C005E13F3 /* DCXPathParentSelector.h */,
+				6583B44E13D1D25C005E13F3 /* DCXPathParentSelector.m */,
+				6583B44F13D1D25C005E13F3 /* DCXPathRootSelector.h */,
+				6583B45013D1D25C005E13F3 /* DCXPathRootSelector.m */,
+				6583B45113D1D25C005E13F3 /* DCXPathSubtreeSelector.h */,
+				6583B45213D1D25C005E13F3 /* DCXPathSubtreeSelector.m */,
 			);
 			name = XPath;
 			sourceTree = "<group>";
@@ -427,6 +503,22 @@
 				650357AD116A1BAA00202897 /* DCUIRatingTests.m */,
 			);
 			name = UI;
+			sourceTree = "<group>";
+		};
+		6583B46F13D1D2F0005E13F3 /* XPath */ = {
+			isa = PBXGroup;
+			children = (
+				6583B47013D1D309005E13F3 /* DCXPathAbstractSelectorTests.m */,
+				6583B47113D1D309005E13F3 /* DCXPathElementFilterTests.m */,
+				6583B47213D1D309005E13F3 /* DCXPathElementSelectorTests.m */,
+				6583B47313D1D309005E13F3 /* DCXPathExecutorTests.m */,
+				6583B47413D1D309005E13F3 /* DCXPathIndexedSelectorTests.m */,
+				6583B47513D1D309005E13F3 /* DCXPathIndexFilterTests.m */,
+				6583B47613D1D309005E13F3 /* DCXPathParentSelectorTests.m */,
+				6583B47713D1D309005E13F3 /* DCXPathRootSelectorTests.m */,
+				6583B47813D1D309005E13F3 /* DCXPathSubtreeSelectorTests.m */,
+			);
+			name = XPath;
 			sourceTree = "<group>";
 		};
 		65CD39A01226872A0061EEBF /* scripts */ = {
@@ -500,6 +592,16 @@
 				65142DF713C1F54D00C4C21F /* DCBusyIndicator.h in Headers */,
 				65142DFF13C4A01500C4C21F /* DCBackgroundThreadDelegate.h in Headers */,
 				65CC19A613C87CF9005D8BA3 /* DCBackgroundTask.h in Headers */,
+				6583B45313D1D25C005E13F3 /* DCXPathAbstractSelector.h in Headers */,
+				6583B45613D1D25C005E13F3 /* DCXPathElementFilter.h in Headers */,
+				6583B45913D1D25C005E13F3 /* DCXPathElementSelector.h in Headers */,
+				6583B45C13D1D25C005E13F3 /* DCXPathExecutor.h in Headers */,
+				6583B45F13D1D25C005E13F3 /* DCXPathFilter.h in Headers */,
+				6583B46013D1D25C005E13F3 /* DCXPathIndexedSelector.h in Headers */,
+				6583B46313D1D25C005E13F3 /* DCXPathIndexFilter.h in Headers */,
+				6583B46613D1D25C005E13F3 /* DCXPathParentSelector.h in Headers */,
+				6583B46913D1D25C005E13F3 /* DCXPathRootSelector.h in Headers */,
+				6583B46C13D1D25C005E13F3 /* DCXPathSubtreeSelector.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -631,6 +733,15 @@
 				65CC19A813C882E0005D8BA3 /* DCBackgroundThreadTests.m in Sources */,
 				652D4E4213C9B2FA00633E51 /* CancellableTask.m in Sources */,
 				652D4E4513CC70B800633E51 /* SleepingTask.m in Sources */,
+				6583B47913D1D309005E13F3 /* DCXPathAbstractSelectorTests.m in Sources */,
+				6583B47A13D1D309005E13F3 /* DCXPathElementFilterTests.m in Sources */,
+				6583B47B13D1D309005E13F3 /* DCXPathElementSelectorTests.m in Sources */,
+				6583B47C13D1D309005E13F3 /* DCXPathExecutorTests.m in Sources */,
+				6583B47D13D1D309005E13F3 /* DCXPathIndexedSelectorTests.m in Sources */,
+				6583B47E13D1D309005E13F3 /* DCXPathIndexFilterTests.m in Sources */,
+				6583B47F13D1D309005E13F3 /* DCXPathParentSelectorTests.m in Sources */,
+				6583B48013D1D309005E13F3 /* DCXPathRootSelectorTests.m in Sources */,
+				6583B48113D1D309005E13F3 /* DCXPathSubtreeSelectorTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -662,6 +773,15 @@
 				65D5D7771259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.m in Sources */,
 				65142DF413C1F54D00C4C21F /* DCBackgroundThread.m in Sources */,
 				65142DF813C1F54D00C4C21F /* DCBusyIndicator.m in Sources */,
+				6583B45413D1D25C005E13F3 /* DCXPathAbstractSelector.m in Sources */,
+				6583B45713D1D25C005E13F3 /* DCXPathElementFilter.m in Sources */,
+				6583B45A13D1D25C005E13F3 /* DCXPathElementSelector.m in Sources */,
+				6583B45D13D1D25C005E13F3 /* DCXPathExecutor.m in Sources */,
+				6583B46113D1D25C005E13F3 /* DCXPathIndexedSelector.m in Sources */,
+				6583B46413D1D25C005E13F3 /* DCXPathIndexFilter.m in Sources */,
+				6583B46713D1D25C005E13F3 /* DCXPathParentSelector.m in Sources */,
+				6583B46A13D1D25C005E13F3 /* DCXPathRootSelector.m in Sources */,
+				6583B46D13D1D25C005E13F3 /* DCXPathSubtreeSelector.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
