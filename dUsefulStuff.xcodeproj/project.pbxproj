@@ -23,6 +23,9 @@
 		652AC6A012DA98C5007D5042 /* GHUnit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6576D1C3121C0CAF00CBE1B0 /* GHUnit.framework */; };
 		652D4E4213C9B2FA00633E51 /* CancellableTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 652D4E4113C9B2FA00633E51 /* CancellableTask.m */; };
 		652D4E4513CC70B800633E51 /* SleepingTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 652D4E4413CC70B800633E51 /* SleepingTask.m */; };
+		652F9B5B13D70F53002089FF /* NSObject+dUsefulStuff.h in Headers */ = {isa = PBXBuildFile; fileRef = 652F9B5913D70F53002089FF /* NSObject+dUsefulStuff.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		652F9B5C13D70F53002089FF /* NSObject+dUsefulStuff.m in Sources */ = {isa = PBXBuildFile; fileRef = 652F9B5A13D70F53002089FF /* NSObject+dUsefulStuff.m */; };
+		652F9B5F13D71079002089FF /* NSObject+dUsefulStuffTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652F9B5E13D71079002089FF /* NSObject+dUsefulStuffTests.m */; };
 		653888E51272C76D0037D2C1 /* DCCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 6503579B116A1B8100202897 /* DCCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		653888E61272C7710037D2C1 /* DCCoreData.h in Headers */ = {isa = PBXBuildFile; fileRef = 65568E971233B7C400BC02C3 /* DCCoreData.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		653888E71272C7730037D2C1 /* DCDialogs.h in Headers */ = {isa = PBXBuildFile; fileRef = 65CD392E122551E90061EEBF /* DCDialogs.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -163,6 +166,9 @@
 		652D4E4113C9B2FA00633E51 /* CancellableTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CancellableTask.m; sourceTree = "<group>"; };
 		652D4E4313CC70B800633E51 /* SleepingTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SleepingTask.h; sourceTree = "<group>"; };
 		652D4E4413CC70B800633E51 /* SleepingTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SleepingTask.m; sourceTree = "<group>"; };
+		652F9B5913D70F53002089FF /* NSObject+dUsefulStuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+dUsefulStuff.h"; sourceTree = "<group>"; };
+		652F9B5A13D70F53002089FF /* NSObject+dUsefulStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+dUsefulStuff.m"; sourceTree = "<group>"; };
+		652F9B5E13D71079002089FF /* NSObject+dUsefulStuffTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+dUsefulStuffTests.m"; sourceTree = "<group>"; };
 		6538898A12730E980037D2C1 /* DCCoreDataTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCCoreDataTests.m; sourceTree = "<group>"; };
 		654ED65C116C5B89007AB3BA /* ReadMe.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; lineEnding = 0; path = ReadMe.markdown; sourceTree = "<group>"; };
 		654ED65D116C5B89007AB3BA /* star-active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star-active.png"; sourceTree = "<group>"; };
@@ -378,6 +384,8 @@
 				65896F1E1244F9210089E207 /* UIColor+dUsefulStuff.m */,
 				65B182EF124DD7CC00A789C0 /* UIView+dUsefulStuff.h */,
 				65B182F0124DD7CC00A789C0 /* UIView+dUsefulStuff.m */,
+				652F9B5913D70F53002089FF /* NSObject+dUsefulStuff.h */,
+				652F9B5A13D70F53002089FF /* NSObject+dUsefulStuff.m */,
 			);
 			name = Categories;
 			sourceTree = "<group>";
@@ -405,6 +413,7 @@
 				650357B0116A1BAA00202897 /* NSDictionary+dUsefulStuffTests.m */,
 				650357B1116A1BAA00202897 /* NSMutableDictionary+dUsefulStuffTests.m */,
 				65896F451244FC320089E207 /* UIColor+dUsefulStuffTests.m */,
+				652F9B5E13D71079002089FF /* NSObject+dUsefulStuffTests.m */,
 			);
 			name = Categories;
 			sourceTree = "<group>";
@@ -492,6 +501,7 @@
 				65142DF713C1F54D00C4C21F /* DCBusyIndicator.h in Headers */,
 				65142DFF13C4A01500C4C21F /* DCBackgroundThreadDelegate.h in Headers */,
 				65CC19A613C87CF9005D8BA3 /* DCBackgroundTask.h in Headers */,
+				652F9B5B13D70F53002089FF /* NSObject+dUsefulStuff.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -623,6 +633,7 @@
 				65CC19A813C882E0005D8BA3 /* DCBackgroundThreadTests.m in Sources */,
 				652D4E4213C9B2FA00633E51 /* CancellableTask.m in Sources */,
 				652D4E4513CC70B800633E51 /* SleepingTask.m in Sources */,
+				652F9B5F13D71079002089FF /* NSObject+dUsefulStuffTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -654,6 +665,7 @@
 				65D5D7771259FA6C00E161C1 /* DCUIRatingScaleDoubleStrategy.m in Sources */,
 				65142DF413C1F54D00C4C21F /* DCBackgroundThread.m in Sources */,
 				65142DF813C1F54D00C4C21F /* DCBusyIndicator.m in Sources */,
+				652F9B5C13D70F53002089FF /* NSObject+dUsefulStuff.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
