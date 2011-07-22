@@ -4,10 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Build DMG.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Build release framework.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Release DMG.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 		<key>Run build script.xcscheme</key>
 		<dict>
@@ -27,18 +37,31 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key></key>
-		<true/>
-		<key>Build release framework</key>
-		<true/>
-		<key>dUsefulStuff simulator unit tests.app</key>
-		<true/>
-		<key>dUsefullStuff App Test Simulator.app</key>
-		<true/>
-		<key>dUsefullStuff Test Program.app</key>
-		<true/>
-		<key>libdUsefulStuff.a</key>
-		<true/>
+		<key>653AD37C116E13CF006E2268</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6595518313D8F58400660F63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6595518E13D8F5F900660F63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>659D2BE4117747BA0056AA74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>65A0C679116EF534003AC854</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

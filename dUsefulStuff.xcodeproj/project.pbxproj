@@ -738,6 +738,7 @@
 				GCC_PREFIX_HEADER = dUsefulStuff_Prefix.pch;
 				INFOPLIST_FILE = "src/tests/dUsefulStuff unit tests-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = (
 					"-all_load",
@@ -763,6 +764,7 @@
 				GCC_PREFIX_HEADER = dUsefulStuff_Prefix.pch;
 				INFOPLIST_FILE = "src/tests/dUsefulStuff unit tests-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = (
 					"-all_load",

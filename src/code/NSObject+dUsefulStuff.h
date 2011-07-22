@@ -9,11 +9,11 @@
 #import <Foundation/Foundation.h>
 
 /**
- Category of useful methods for all obejcts.
+ Category of useful methods for all objects.
  */
 @interface NSObject (dUsefulStuff)
 /**
- This creates NSError objects based on the passed information.
+ This creates NSError objects based on the passed information. It wraps some some boiler plate code for creating better error objects.
  
  @param errorCode
  @param errorDomain the domain associated with the error.
