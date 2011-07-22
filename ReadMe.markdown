@@ -195,11 +195,6 @@ This category adds a colour comparison function which can be used to test UIColo
 
 This category adds a method for drawing rounded rectangles on the view.
 
-## DCCoreData
-
-This class is intended to be a base class providing infrastructure and useful methods for dealing with
-core data.
-
 ## DCDialogs
 
 Class of static methods for displaying messages to the user. Just takes some pain out of rewriting code.

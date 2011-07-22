@@ -1,5 +1,6 @@
 # Changes Version 0.0.11
 * Added NSObject+dUSefulStuff containing useful methods.
+* Removing Core Data class and dependency as it imposes an undue requirement on projects that use this.
 
 # Changes Version 0.0.10
 * Changed DCRatingScale to DCRatingScale and fixed enum declaration.
